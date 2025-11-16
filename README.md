@@ -104,6 +104,7 @@ Breakdown of:
            | (Bank Sent/Received)  |
            +------------------------+
 ```
+<img width="1366" height="727" alt="Last" src="https://github.com/user-attachments/assets/b4390f74-f6b1-4a65-b945-44d16ba2cb5b" />
 
 ---
 
