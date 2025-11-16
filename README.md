@@ -44,7 +44,7 @@ Visualised using **line & column charts** to show:
 - Seasonal high
 -
 - <img width="1366" height="726" alt="5" src="https://github.com/user-attachments/assets/1dfef965-1857-4980-9d5a-0fdd8bc96c12" />
-s and lows  
+
 
 ```
 ![Monthly Transaction Trends](images/transaction_trends.png)
