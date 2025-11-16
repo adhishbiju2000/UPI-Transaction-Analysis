@@ -3,6 +3,7 @@
 ### *Interactive Power BI Dashboard | User Segmentation • Behaviour Analysis • Fintech Insights*
 
 ---
+<img width="878" height="484" alt="Dashbord" src="https://github.com/user-attachments/assets/3270e532-0ad2-4b0a-b495-87c2302ab92d" />
 
 ## 📘 Project Overview  
 This project explores UPI (Unified Payments Interface) transaction behaviour across multiple user dimensions such as city, age group, gender, device type, merchant, and payment purpose.  
@@ -32,13 +33,18 @@ A two-page **interactive Power BI dashboard** with **10 synced slicers** enables
 Filters applied across both pages:  
 City • Age Group • Gender • Device • Merchant • Payment Purpose • Payment Method • Bank Sent • Bank Received • Status  
 
+<img width="1366" height="725" alt="Dashboard full screen" src="https://github.com/user-attachments/assets/27077111-d74d-4e71-8fc6-a64cbb248b73" />
+
 ---
 
 ### 🔹 2. Monthly Transaction Trends  
 Visualised using **line & column charts** to show:  
 - Monthly Transaction Amount (2024)  
 - Monthly Balance Trend  
-- Seasonal highs and lows  
+- Seasonal high
+-
+- <img width="1366" height="726" alt="5" src="https://github.com/user-attachments/assets/1dfef965-1857-4980-9d5a-0fdd8bc96c12" />
+s and lows  
 
 ```
 ![Monthly Transaction Trends](images/transaction_trends.png)
@@ -55,6 +61,7 @@ Compares:
 ```
 ![City Matrix](images/city_matrix.png)
 ```
+<img width="1366" height="726" alt="5" src="https://github.com/user-attachments/assets/82958384-b08c-49eb-bc45-a03155fab824" />
 
 ---
 
@@ -80,6 +87,8 @@ Breakdown of:
 - Strong correlation between city, device type & transaction patterns  
 
 ---
+<img width="1366" height="730" alt="7" src="https://github.com/user-attachments/assets/d02ee9ab-f3bb-43fc-97f6-6bbf962bbf66" />
+
 
 ## 🧩 Data Model (Simplified)
 
@@ -149,6 +158,5 @@ This UPI analytics dashboard demonstrates:
 ---
 
 ## 🔗 Connect  
-**LinkedIn:** *Add your link here*  
-**GitHub:** *Repository link here*  
+**LinkedIn:** *[Add your link here](https://www.linkedin.com/in/adhishbiju/)*  
 
